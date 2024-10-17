@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./beeware-tutorial/helloworld/build/helloworld/windows/app/src/app_packages"
+    ]
+}
